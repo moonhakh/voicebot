@@ -69,7 +69,7 @@ def main():
         st.session_state["check_reset"] = False
 
     # 제목 
-    st.header("음성 비서 프로그램")
+    st.header("학현이의 음성 비서 프로그램")
     # 구분선
     st.markdown("---")
 
